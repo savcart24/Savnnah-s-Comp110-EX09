@@ -21,15 +21,15 @@ With that done I was able to create 3 graphs.
 
 The first is bar chart of coding experience and average difficulty ranking of the course. This graphed showed that students with little coding experience found the course harder. 
 
-<img src="C:\Program Files (x86)\comp110-26s-workspace\barchart1.png" alt="bar_chart1. "  width="500"/>
+<img src="/barchart1.png" alt="bar_chart1. "  width="500"/>
 
 The second is a bar chart showing visits to office hours by experience level with less experienced students having higher office hour visitation.
 
-<img src="C:\Program Files (x86)\comp110-26s-workspace\barplot2.png" alt="bar_chart2. "  width="500"/>
+<img src="/barplot2.png" alt="bar_chart2. "  width="500"/>
 
 The third is a scatterplot of pace versus difficulty where less experienced students reported the course being more difficult and the pace being too fast compared to the other experience levels.
 
-<img src="C:\Program Files (x86)\comp110-26s-workspace\scatterplot.png" alt="bar_chart2. "  width="500"/>
+<img src="/scatterplot.png" alt="bar_chart2. "  width="500"/>
 
 ## Conclusions
 Based on the results above, more inexperienced students do find the course harder. This is showcased in chart1 where the less experienced students had the highest difficulty rating and in the 3rd chart where the less experienced students showed clustering in the upper right coner which is where they felt that the pace was fast and that the course was difficult. In additon, less experienced students also go to office hours more frequently compared to more experienced students (chart2). While this doesnt exactly showcase the need to go over more VS code in more detail, it does show that less exerience students seek help more often and find the course more difficult overall. This could indicate the need to potentially give more instruction on the coding software so that students don't need to seek additional help to complete assignments. 
